@@ -20,7 +20,6 @@ output:
   postcards::jolla
 ---
  
-I’m a Molecular Eco-Epidemiologist with expertise in diagnostics, pathogen genomics, and disease surveillance at the human–wildlife interface. I have 10 years of field and lab experience in the Amazon, leading One Health research with Indigenous communities.
-Currently based in London, UK.
+I’m a Molecular Eco-Epidemiologist with expertise in diagnostics, pathogen genomics, and disease surveillance at the human–wildlife interface. I have 10 years of field and laboratory experience in emerging infectious diseases, leading One Health research with Indigenous communities in the Amazon Basin. I am currently based in London, UK.
 
 [Download my full CV here.](https://github.com/gulloau/gulloau.github.io/raw/main/cv_gabriela_ulloa.pdf)
