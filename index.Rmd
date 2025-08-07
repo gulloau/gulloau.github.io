@@ -3,7 +3,7 @@ title: "Gabriela M. Ulloa Urizar"
 image: "gabriela02.jpg"
 links:
   - label: Scholar
-    url: "https://scholar.google.com/citations?user=jJUge1UAAAAJ"
+    url: "https://scholar.google.com/citations?hl=es&user=jJUge1UAAAAJ&view_op=list_works&sortby=pubdate"
   - label: ORCID
     url: "https://orcid.org/0000-0003-4470-2576"
   - label: Protocols.io
